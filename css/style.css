@@ -1,6 +1,10 @@
-body
+/*** this is the body section ***/
+
+body {
   font-size: 14px;
 }
+
+/*** this is the nav bar ***/
 
 nav {
   background color: yellow;
@@ -8,12 +12,21 @@ nav {
   margin-top: -10px;
   position: fixed;
   width: 100%;
+}
 
+/*** this is for the sections ***/
 
 section {
   margin: 0 auto;
   width: 60%;
 }
+
+/*** this changes the color fo the div elements ***/
+div {
+  background-color: red;
+}
+
+/*** header ***/
 
 h1 {
   font-family sans-serif;
@@ -34,3 +47,4 @@ h3 {
   height: 100px;
   margin 10px 0;
   width: 100%;
+}
