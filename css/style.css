@@ -7,7 +7,7 @@ body {
 /*** this is the nav bar ***/
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -21,25 +21,22 @@ section {
   width: 60%;
 }
 
-/*** this changes the color fo the div elements ***/
-div {
+/*** this changes the color for the div elements ***/
+
+.last{
   background-color: red;
 }
 
 /*** header ***/
 
 h1 {
-  font-family sans-serif;
+  font-family: sans-serif;
   font-size: 2em;
 }
 
 .example, h3 {
   padding-top: 30px;
-  text-align center
-}
-
-h3 {
-  font-size: 1.3em;
+  text-align: center;
 }
 
 .element {
