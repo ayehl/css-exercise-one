@@ -21,12 +21,6 @@ section {
   width: 60%;
 }
 
-/*** this changes the color for the div elements ***/
-
-.last{
-  background-color: red;
-}
-
 /*** header ***/
 
 h1 {
@@ -44,4 +38,10 @@ h1 {
   height: 100px;
   margin 10px 0;
   width: 100%;
+}
+
+/*** this changes the color for the div elements ***/
+
+.last{
+  background-color: red;
 }
